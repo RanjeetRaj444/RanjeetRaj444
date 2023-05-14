@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT**
 
-- 📫 Reach me at **ranjeetssss44666@gmail.com**
+- 📫 Reach me at **ranjeetraj44666@gmail.com**
 
 - 📄 Know about my experiences
   <a target="_blank" href="https://drive.google.com/drive/folders/1C98HstTeNGolgPIySn7XP_LYPHQXKrnB">Resume</a>
