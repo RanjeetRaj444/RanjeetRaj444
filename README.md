@@ -16,14 +16,16 @@
 - 👨‍💻 All of my projects are available at [ranjeetRaj](https://github.com/RanjeetRaj444?tab=repositories)
 
 - ⚡ Fun fact **A developer who loves the colors and can good portraits**
+- 
 
-<h3 align="left" >Connect with me:</h3>
-
-<p align='left'>
+<!-- <h3 align="left" >Connect with me:</h3> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjeet-raj-19aa67256/)
+<!-- <p align='left'>
   <a href="https://www.linkedin.com/in/ranjeet-raj-19aa67256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sanjeet.netlify.app/" target="blank" ><img src="https://img.shields.io/badge/portfolio-%23D14836.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>
 
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p >
