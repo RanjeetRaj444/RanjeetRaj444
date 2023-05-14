@@ -4,7 +4,7 @@
 
 <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="350">
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=RanjeetRaj444 alt=ranjeet/> </p>
+<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=RanjeetRaj444 alt=ranjeet/> </p> -->
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT**
 
