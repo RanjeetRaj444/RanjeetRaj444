@@ -2,7 +2,7 @@
 
 <h3 align="center">A young-crazy 🤓 full stack web developer from India</h3>
 
-<!-- <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="350"> -->
+<img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="350">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=RanjeetRaj444 alt=ranjeet/> </p>
 
