@@ -11,7 +11,7 @@
 - 📫 Reach me at **ranjeetraj44666@gmail.com**
 
 - 📄 Know about my experiences
-  <a target="_blank" href="https://drive.google.com/drive/folders/1C98HstTeNGolgPIySn7XP_LYPHQXKrnB">Resume</a>
+  <a target="_blank" href="https://drive.google.com/file/d/1Bn83f4pF5kc2KfxQORTWRobrmevgFBfM/view?usp=sharing">Resume</a>
 
 - 👨‍💻 All of my projects are available at [ranjeetRaj](https://github.com/RanjeetRaj444?tab=repositories)
 - Portfolio : - https://ranjeetraj444.github.io/
